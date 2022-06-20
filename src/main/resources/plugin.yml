@@ -1,0 +1,10 @@
+name: PPC
+version: '${project.version}'
+main: me.panda19.ppc.PPC
+api-version: 1.18
+authors: [ Panda19 ]
+description: Panda Prison Core
+commands:
+  pre:
+    usage: /<command>
+    description: Issues the main command
